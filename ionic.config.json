@@ -1,0 +1,7 @@
+{
+  "name": "ionic-how-to-template",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
